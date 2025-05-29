@@ -2,7 +2,9 @@
 
 JavaFX Contacts Management is a JavaFX-based application for managing contacts. It allows users to add, edit, delete, and search for contacts, displaying their names and phone numbers in a user-friendly interface.
 
-Task #4 for the 20554 java course of the Open University
+Task #4 for the 20554 java course of the Open University.
+
+The full assignment (in Hebrew) is in the [Task 4.pdf](Task%204.pdf) file.
 
 ## Table of Contents
 
@@ -51,4 +53,4 @@ The `Maman14Ex2Controller` class is responsible for handling user interactions a
 
 ## Author
 
-Sagi Menachem.
+Sagi Menahem.

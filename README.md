@@ -11,6 +11,8 @@ Task #4 for the 20554 java course of the Open University
 - [Controller Class](#controller-class)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Author](#author)
+
 
 ## Introduction
 
@@ -46,3 +48,7 @@ The `Maman14Ex2Controller` class is responsible for handling user interactions a
 ![Image1](Images/image1.png)
 
 ![Image2](Images/image2.png)
+
+## Author
+
+Sagi Menachem.
